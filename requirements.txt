@@ -1,0 +1,5 @@
+# Main app environment: Streamlit UI + script/scene planning (talks to Ollama)
+streamlit>=1.36
+pydantic>=2.5
+requests>=2.31
+python-dotenv>=1.0

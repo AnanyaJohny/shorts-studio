@@ -1,0 +1,9 @@
+venv/
+.venv/
+voice_env/
+.env
+__pycache__/
+*.pyc
+output/
+*.zip
+.DS_Store

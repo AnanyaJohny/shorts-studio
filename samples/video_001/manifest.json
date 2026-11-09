@@ -1,0 +1,19 @@
+{
+  "video_id": "video_001",
+  "topic": "Post-event processing and social anxiety",
+  "status": "storyboard_approved",
+  "stages": {
+    "script_generation": "completed",
+    "script_approval": "completed",
+    "scene_planning": "completed",
+    "scene_validation": "completed",
+    "image_generation": "pending",
+    "voice_generation": "pending",
+    "video_rendering": "pending",
+    "quality_check": "pending",
+    "human_approval": "pending"
+  },
+  "target_duration_seconds": 45,
+  "target_resolution": "1080x1920",
+  "target_format": "9:16"
+}

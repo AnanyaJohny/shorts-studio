@@ -1,0 +1,51 @@
+[
+    {
+        "scene_number": 1,
+        "image": "images/scene_01.png",
+        "start": 0.0,
+        "end": 2.74,
+        "duration": 2.74
+    },
+    {
+        "scene_number": 2,
+        "image": "images/scene_02.png",
+        "start": 3.12,
+        "end": 7.76,
+        "duration": 4.64
+    },
+    {
+        "scene_number": 3,
+        "image": "images/scene_03.png",
+        "start": 8.5,
+        "end": 13.08,
+        "duration": 4.58
+    },
+    {
+        "scene_number": 4,
+        "image": "images/scene_04.png",
+        "start": 13.82,
+        "end": 20.68,
+        "duration": 6.86
+    },
+    {
+        "scene_number": 5,
+        "image": "images/scene_05.png",
+        "start": 21.3,
+        "end": 25.76,
+        "duration": 4.46
+    },
+    {
+        "scene_number": 6,
+        "image": "images/scene_06.png",
+        "start": 25.76,
+        "end": 31.96,
+        "duration": 6.2
+    },
+    {
+        "scene_number": 7,
+        "image": "images/scene_07.png",
+        "start": 32.48,
+        "end": 36.34,
+        "duration": 3.86
+    }
+]

@@ -1,0 +1,4 @@
+# Voice/render environment (voice_env): Kokoro TTS + Whisper timestamps.
+# FFmpeg is installed separately: brew install ffmpeg-full
+kokoro-mlx
+faster-whisper
