@@ -214,6 +214,7 @@ python -m scripts.demo_pipeline
 <!-- Update with your real numbers -->
 - First Short published on YouTube: ~700+ views overnight
 - Cost per video: ₹0 (local inference)
+- [Youtube Shorts] (https://www.youtube.com/@psychologyyy4u)
 
 ## Author
 
