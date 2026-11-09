@@ -212,10 +212,10 @@ python -m scripts.demo_pipeline
 ## Results
 
 <!-- Update with your real numbers -->
-- First Short published on YouTube: ~430 views overnight
+- First Short published on YouTube: ~700+ views overnight
 - Cost per video: ₹0 (local inference)
 
 ## Author
 
 **Ananya Johny**: Software Engineer
-[LinkedIn](<your-linkedin-url>) · [GitHub](https://github.com/AnanyaJohny)
+[LinkedIn](www.linkedin.com/in/ananya-johny) · [GitHub](https://github.com/AnanyaJohny)
